@@ -3,7 +3,6 @@ import time
 import math
 
 def rainbow_text(plain_text):
-    """Applies a smooth lolcat-style gradient to text using ANSI colors."""
     colored_text = ""
     frequency = 0.25 
     
