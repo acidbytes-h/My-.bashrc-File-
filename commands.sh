@@ -3,3 +3,4 @@
 sudo pacman -Syu figlet
 sudo pacman -Syu fastfetch
 sudo pacman -Syu lolcat
+sudo pacman -Syu lolcrab
